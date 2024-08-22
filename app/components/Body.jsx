@@ -166,7 +166,7 @@ const Body = () => {
 
 
       {/* Testimonials Section */}
-      <section id="testimonials" className="py-16 bg-white bg-yellow-300">
+      <section id="testimonials" className="py-16  bg-yellow-300">
         <div className="container mx-auto text-center">
           <p className="font-bold text-[20px] text-black">TESTIMONIALS</p>
           <h1 className="font-sans text-[50px] mx-auto">
