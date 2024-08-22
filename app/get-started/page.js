@@ -52,7 +52,7 @@ const GetStarted = () => {
                       Get a Quote
                     </Typography>
                     <Typography variant="lead" color="gray" className="text-gray-300">
-                      We'll provide a personalized quote for your project.
+                      We will provide a personalized quote for your project.
                     </Typography>
                   </div>
                 </div>
@@ -69,7 +69,7 @@ const GetStarted = () => {
                       Receive Services
                     </Typography>
                     <Typography variant="lead" color="gray" className="text-gray-300">
-                      We'll deliver high-quality services tailored to your needs.
+                      We will deliver high-quality services tailored to your needs.
                     </Typography>
                   </div>
                 </div>

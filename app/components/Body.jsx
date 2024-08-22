@@ -175,29 +175,29 @@ const Body = () => {
           <div className="flex flex-wrap justify-center mt-[40px]">
             <div className="w-[90%] md:w-[45%] lg:w-[30%] p-5 bg-white rounded-lg shadow-md mb-5 mx-2">
               <p className="italic">
-                "The cleaning services provided were exceptional. Highly
-                recommended!"
+                The cleaning services provided were exceptional. Highly
+                recommended!
               </p>
               <p className="font-bold mt-2">- M Rayan.</p>
             </div>
             <div className="w-[90%] md:w-[45%] lg:w-[30%] p-5 bg-white rounded-lg shadow-md mb-5 mx-2">
               <p className="italic">
-                "Great service and q group of professional people. Totally
-                recommended!"
+                Great service and q group of professional people. Totally
+                recommended!
               </p>
               <p className="font-bold mt-2">- Jane Smith.</p>
             </div>
             <div className="w-[90%] md:w-[45%] lg:w-[30%] p-5 bg-white rounded-lg shadow-md mb-5 mx-2">
               <p className="italic">
-                "The cleaning services provided were exceptional. Highly
-                recommended!"
+                The cleaning services provided were exceptional. Highly
+                recommended!
               </p>
               <p className="font-bold mt-2">- Mark W.</p>
             </div>
             <div className="w-[90%] md:w-[45%] lg:w-[30%] p-5 bg-white rounded-lg shadow-md mb-5 mx-2">
               <p className="italic">
-                "Great service and q group of professional people. Totally
-                recommended! very professional and thorough!"
+                Great service and q group of professional people. Totally
+                recommended! very professional and thorough!
               </p>
               <p className="font-bold mt-2">- Henry F.</p>
             </div>
